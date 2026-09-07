@@ -1,9 +1,9 @@
-# Chiral Linux — Live ISO
+# Chiral Linux Live ISO
 
 ## Download
 
-- GitHub: `<paste your repo link here>`
-- Google Drive: `<paste your Drive link here>`
+- GitHub: https://github.com/Amaterus1125/Chiral-OS
+- Google Drive: https://drive.google.com/file/d/1wxKLTWrWFhGB3HCN_wByQT9bIwV05XEM/view?usp=sharing
 
 ## Run in VirtualBox
 
