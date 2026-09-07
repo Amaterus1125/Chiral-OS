@@ -42,7 +42,7 @@
 
 The ISO is currently distributed via Google Drive while releases are set up:
 
-**[⬇️ Download chiral-live.iso](https://drive.google.com/file/d/1wxKLTWrWFhGB3HCN_wByQT9bIwV05XEM/view?usp=sharing)**
+**[⬇️ Download chiral-live.iso](lfs-live.iso)**
 
 ## 🚀 Booting the ISO
 
