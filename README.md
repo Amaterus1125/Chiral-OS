@@ -2,7 +2,7 @@
 
 # 🐚 Chiral OS
 
-**A hand-built Linux distribution powered by XFCE — compiled from source, not assembled from a base image.**
+**A hand-built Linux distribution powered by XFCE compiled from source, not assembled from a base image.**
 
 [![Built From Source](https://img.shields.io/badge/built%20from-source-8839ef?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![XFCE](https://img.shields.io/badge/desktop-XFCE-1e66f5?style=for-the-badge&logo=xfce&logoColor=white)](#)
