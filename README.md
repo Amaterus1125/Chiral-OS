@@ -9,6 +9,12 @@
 [![License](https://img.shields.io/badge/license-MIT-40a02b?style=for-the-badge)](#license)
 [![Status](https://img.shields.io/badge/status-active%20development-e64553?style=for-the-badge)](#roadmap)
 
+<br>
+
+<img src="https://imgs.search.brave.com/CSi1h98kPP4oCKilbZRp4hQGq9qcRswu43Uvei6414E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Z2V0cGZwcy5jb20v/aW1nL21vYmlsZS9t/aW5pbWFsaXN0LXBm/cHMvZ2VvbWV0cmlj/LXNoYXBlcy9jcnlz/dGFsLWNsZWFyLXdh/dGVyLXNwbGFzaC1n/ZW9tZXRyaWMtcGl4/ZWwtYXJ0LW1vYmls/ZS0xenZobzItNTU1/NTU4OTQud2VicA" alt="Freyja banner" width="500">
+
+
+
 </div>
 
 ---
