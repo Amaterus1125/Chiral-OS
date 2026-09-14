@@ -19,7 +19,7 @@
 
 ---
 
-## What is Chiral?
+## What is Chiral and why it exists?
 
 **Chiral OS** is a custom Linux distribution built from [Linux From Scratch](https://www.linuxfromscratch.org/) and [BLFS](https://www.linuxfromscratch.org/blfs/), with **XFCE** as its desktop environment. Every core package — toolchain, init flow, desktop stack — is compiled by hand rather than inherited from an upstream distro. It boots from a self-built live ISO using a custom BusyBox initramfs, and currently runs verified in a **VM** (QEMU/VirtualBox), with bare-metal driver support being expanded ahead of a full release.
 
