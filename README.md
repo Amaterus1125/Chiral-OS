@@ -126,8 +126,17 @@ Chiral OS is a solo-built distro that's opening up to contributions. Issues and 
 
 Released under the [MIT License](LICENSE).
 
----
+
 
 <div align="center">
 Built from source, byte by byte. 🐧
 </div>
+
+<div align="center">
+    LFS COUNTER FINDER - 
+    LFS ID = 32420 
+    LFS VERSION - 13.0 SYSTEMD 
+    LFS WEBSITE - [GO TO LFS COUNTER PAGE] - (https://www.linuxfromscratch.org/cgi-bin/lfscounter.php)
+</div>
+
+---
